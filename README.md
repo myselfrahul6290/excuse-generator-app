@@ -8,7 +8,6 @@ A fun and light-hearted Flutter app that uses **Google Gemini AI** (via **Genkit
 - 🔹 Enter any situation (e.g., `"I missed my assignment"`)
 - 🔹 Get a **funny** or **believable** excuse instantly
 - 🔹 Uses **Google Gemini AI** via **Genkit API**
-- 🔹 Minimal UI, maximum fun!
 
 ---
 
