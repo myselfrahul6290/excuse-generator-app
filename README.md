@@ -1,16 +1,29 @@
-# myapp
+# ✨ Excuse Generator App
 
-A new Flutter project.
+A fun and light-hearted Flutter app that uses **Google Gemini AI** (via **Genkit**) to generate hilarious or believable excuses based on your input situation.
+---
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔹 Enter any situation (e.g., `"I missed my assignment"`)
+- 🔹 Get a **funny** or **believable** excuse instantly
+- 🔹 Uses **Google Gemini AI** via **Genkit API**
+- 🔹 Minimal UI, maximum fun!
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧠 How It Works
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. User enters a situation in the Flutter app.
+2. The app sends this input to a Node.js backend.
+3. The backend uses **Genkit** to call Gemini API and get a response.
+4. The response is sent back and shown in the app.
+
+---
+
+## 🛠️ Technologies Used
+
+- 🐦 **Flutter** (Frontend)
+- 🧠 **Genkit** + **Google Gemini AI** (AI response)
+- 🌐 **Node.js + Express** (Backend API)
+- 💬 **Dart** (Programming Language)
