@@ -3,6 +3,11 @@
 A fun and light-hearted Flutter app that uses **Google Gemini AI** (via **Genkit**) to generate hilarious or believable excuses based on your input situation.
 ---
 
+
+## screenshot
+
+![Homepage Screenshot](./ss.jpeg)
+
 ## 🚀 Features
 
 - 🔹 Enter any situation (e.g., `"I missed my assignment"`)
